@@ -1,5 +1,6 @@
 # Academia Reborn - Magic 5
 
+### OYUN VE UYGULAMA AKADEMİSİ GAME JAM İKİNCİLİK ÖDÜLÜ 🏆
 
 ## Hikaye
 Efsaneler ve zamanın ötesine uzanan destanlar, yüzyıllar öncesine dayanan Epsilon Akademisi'nin varlığından söz eder. Bu gizemli akademi, bilgelik ve güçle ilgili kadim sırların koruyucusu olarak anılır. Akademinin sembolü ve kalbindeki güç olan logosu, beş mistik parçadan meydana gelir. Ne yazık ki, zamanın kumları içinde bu parçalar yitip gitmiş ve akademi, bir zamanlar yücelttiği muhteşem geçmişinden uzaklaşarak sıradan bir eğitim kurumuna dönüşmüştür. 
