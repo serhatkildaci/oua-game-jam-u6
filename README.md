@@ -22,7 +22,8 @@ Ahmet Murat Ayvaz - [LinkedIn](https://www.linkedin.com/in/ahmet-murat-ayvaz-61a
 
 Selin Tepe - [LinkedIn](https://www.linkedin.com/in/selin-tepe-07b7b3226/)
 
-
+## Link:
+https://boebyn.itch.io/academiareborn
 
 ## Kullandığımız Assetler:
 [Third Person Controller - Basic Locomotion](https://assetstore.unity.com/packages/tools/game-toolkits/third-person-controller-basic-locomotion-free-82048) (Kamera ve Movement scriptlerine eklemeler yaptık. 3rd person 2d kamera açıları için yeni scriptler ekledik.)
